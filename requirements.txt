@@ -1,0 +1,11 @@
+Flask==2.3.3
+gunicorn==21.2.0
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+joblib
+scikit-learn
+streamlit==1.33.0
